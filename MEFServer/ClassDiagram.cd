@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MEFServerDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cell" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAICAAAAAAABAAAAAAAAABAAAAARiAAAAwAA=</HashCode>
+      <FileName>Cell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAiIEACEAgAACBoASIBgAUKAAIQAAAAAAhAAACBA=</HashCode>
+      <FileName>Go.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoAction" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAIACJAIAAAAAAgCBAAAIFAAAIACAACA=</HashCode>
+      <FileName>GoAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoClient" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAAAAAAAQAACAAAgAAAQACgCEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GOListen" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>GOListen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUIGo" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SFBAABEAIAAAAAiCBYIQAAACIIBgAChASBMQAUAEIgA=</HashCode>
+      <FileName>GUIGo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMEFServerApp" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAABAAAAAAAAA=</HashCode>
+      <FileName>MEFServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMEFServerDlg" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>USCAAEMIAAEAAIAAADAKAAQFEgCDEAQIEBAAIAAQBCA=</HashCode>
+      <FileName>MEFServerDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetGoAction" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAIAAAAAACAgIAAAAAAAAAIAAAACA=</HashCode>
+      <FileName>NetGoAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCGoAction" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAIAAAASA=</HashCode>
+      <FileName>PCGoAction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="cellcolor" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>Base.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Status" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Base.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
